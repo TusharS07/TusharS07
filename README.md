@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TusharS07.visitor-badge&left_color=red&right_color=green) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTusharS07&countColor=%23263759&style=plastic&labelStyle=none) 
 <br />
 
  <img align="left" height="170" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
