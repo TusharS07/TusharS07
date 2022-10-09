@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=TusharS07.TusharS07)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TusharS07.visitor-badge&left_color=red&right_color=green) 
 <br />
 
-
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+ <img align="left" height="170" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+ 
 👋 Hi, I’m Tushar!
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
