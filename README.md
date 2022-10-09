@@ -14,3 +14,5 @@
 
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
+⚡️ Fun fact: The first computer “bug” was an actual real-life bug
+
