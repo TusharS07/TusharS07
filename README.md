@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**TusharS07/TusharS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=TusharS07.TusharS07)
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+
+👋 Hi, I’m Tushar!
+
+👀 I’m interested in to learn new technology Based on IT service, data science, etc
+
+🌱The skills I'm learning right now are Shell Programming, Python, Java, MySQL ,HTML, CSS JavaScript.
+
+💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
+
